@@ -1,0 +1,16 @@
+{
+  "name": "flask-restless-ra",
+  "version": "0.0.1",
+  "description": "A React-admin data provider for backends built with Flask Restless Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliylevitskiand/flask-restless-ra.git"
+  },
+  "author": "Vitali Levitski",
+  "license": "MIT",
+  "homepage": "https://github.com/vitaliylevitskiand/flask-restless-ra"
+}
